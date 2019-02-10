@@ -27,7 +27,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-sm-12 col-sx-12">
                                                 <div class="img-responsive">
-                                                    <img src="{{ asset('images/profile_picture.jpeg') }}" width="48" height="48" alt="mSHERER" />
+                                                    <img src="{{ asset('images/profile_picture.jpeg') }}" width="48" height="48" alt="mattsherer" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-sm-12 col-sx-12">

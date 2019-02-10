@@ -23,7 +23,7 @@
                     </li>
                 </ul>
                 <ul class="nav navbar-nav text-uppercase pull-left">
-                    <li><a class="navbar-brand" href="/">mSHERER</a></li>
+                    <li><a class="navbar-brand" href="/">mattsherer</a></li>
                     <li><a href="/about">About me</a></li>
                     <li><a href="/contact">Contact</a></li>
 
